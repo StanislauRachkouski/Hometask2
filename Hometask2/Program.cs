@@ -19,6 +19,7 @@ namespace Hometask2
                     while ((line =sr.ReadLine()) != null)
                     {
                         Console.WriteLine(line);
+                        //Console.WriteLine("\n");
                     }
                 }
            
