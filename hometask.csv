@@ -1,0 +1,6 @@
+Inv. Number;Surname;Name;Second name;Expirience;Skill index (from 1 to 5);Position;Department
+1;Ivanov;Ivan;Ivanovich;3;2;Manual tester;Development and testing
+2;Semenov;Semen;Semenovich;7;5;Automated tester;Development and testing
+3;Petrov;Petr;Petrovich;4;4;Programmer;Development
+4;Vasiluk;Vasilij;Vasilievich;10;5;Project manager;Development
+5;Nick;Mick;Grigorievich;26;1;Security;Security department
